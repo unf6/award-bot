@@ -6,13 +6,11 @@ module.exports = {
 
     run: async (client, interaction) => {
 
-        const slashCommands = await client.application.commands.fetch();
-
         const embed = new EmbedBuilder()
 
             .setAuthor({ name: `${interaction.user.username}!`, iconURL: interaction.user.displayAvatarURL() })
             .setTitle(`${client.user.username} Help Menu`)
-            .setDescription(`• Total Commands: **${slashCommands}**`)
+            .setDescription(`• Total Commands: **13**`)
             .addFields(
 
                 { name: '❔ Information', value: `\`help,invite,ping,botinfo,uptime\``, inline: true },
