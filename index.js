@@ -5,7 +5,7 @@ const manager = new Cluster.Manager(`./src/bot.js`, {
     shardsPerClusters: 1,
     totalClusters: 1,
     mode: "process",
-    token: process.env.MULTITOKEN,
+    token: process.env.TOKEN,
 });
 
 manager.extend(
