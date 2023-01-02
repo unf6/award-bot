@@ -2,7 +2,7 @@ const { EmbedBuilder } = require("discord.js");
 
 module.exports = {
     name: "guildDelete",
-    run: async (client) => {
+    run: async (client, guild) => {
         let channel = client.channels.cache.get(client.config.logs);
         let embed = new EmbedBuilder()
             .setAuthor({ name: `${client.user.username}#${client.user.discriminator} | ${client.user.id}`, iconURL: client.user.displayAvatarURL() })
