@@ -42,13 +42,6 @@ npm install
 
 ## Intents
 
-<p align="center">
-  <a href="https://github.com/liaam-dev/award-bot">
-    <img src="https://media.discordapp.net/attachments/848492641585725450/894114853382410260/unknown.png">
-
-  </a>
-</p>
-When you are running the Code you must have gotten this Error. To fix this head over to your Bot's Discord Application and go to the Bot Settings and find this:
 
 <p align="center">
   <a href="https://github.com/liaam-dev/award-bot">
@@ -56,7 +49,7 @@ When you are running the Code you must have gotten this Error. To fix this head 
 
   </a>
 </p>
-Then turn on both of those Settings and click "Save Changes". Then you are done and it should be fixed!
+Then turn on both of those Settings and click "Save Changes". Then you are done!
 
 ## 💌 Support Server
 
