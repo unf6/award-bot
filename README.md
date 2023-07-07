@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/liaam-dev/award-bot">
+  <a href="https://github.com/unf6/award-bot">
     <img src="./award.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,14 +11,14 @@
     <br/>
     <br/>
 
-  [![Run on Repl.it](https://repl.it/badge/github/liaam-dev/award-bot)](https://repl.it/github/liaam-dev/award-bot)
-  [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/liaam-dev/award-bot)
+  [![Run on Repl.it](https://repl.it/badge/github/unf6/award-bot)](https://repl.it/github/unf6/award-bot)
+  [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/unf6/award-bot)
 
-  ![Contributors](https://img.shields.io/github/contributors/liaam-dev/award-bot?color=dark-green) 
-  ![Forks](https://img.shields.io/github/forks/liaam-dev/award-bot?style=social) 
-  ![Stargazers](https://img.shields.io/github/stars/liaam-dev/award-bot?style=social) 
-  ![Issues](https://img.shields.io/github/issues/liaam-dev/award-bot) 
-  ![License](https://img.shields.io/github/license/liaam-dev/award-bot)
+  ![Contributors](https://img.shields.io/github/contributors/unf6/award-bot?color=dark-green) 
+  ![Forks](https://img.shields.io/github/forks/unf6/award-bot?style=social) 
+  ![Stargazers](https://img.shields.io/github/stars/unf6/award-bot?style=social) 
+  ![Issues](https://img.shields.io/github/issues/unf6/award-bot) 
+  ![License](https://img.shields.io/github/license/unf6/award-bot)
 
   ### Installation
 
@@ -44,7 +44,7 @@ npm install
 
 
 <p align="center">
-  <a href="https://github.com/liaam-dev/award-bot">
+  <a href="https://github.com/unf6/award-bot">
     <img src="https://user-images.githubusercontent.com/50886682/196232974-d9cfc18c-92c5-43bd-b1bc-ff1cae3df701.png">
 
   </a>
@@ -58,4 +58,4 @@ Then turn on both of those Settings and click "Save Changes". Then you are done!
 
 ## 🔐 License
 
-Distributed under the MIT license. See [`LICENSE`](https://github.com/liaam-dev/award-bot/blob/master/LICENSE) for more information.
+Distributed under the MIT license. See [`LICENSE`](https://github.com/unf6/award-bot/blob/master/LICENSE) for more information.
